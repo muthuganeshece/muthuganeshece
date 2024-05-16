@@ -10,6 +10,8 @@
 
 ### Languages and Tools
 ![Matlab_Logo](https://github.com/muthuganeshece/muthuganeshece/assets/131841259/37ad5120-824d-4930-80a4-a9d756430f66)
+![4518857_python_icon (1)](https://github.com/muthuganeshece/muthuganeshece/assets/131841259/a6a2eef2-297f-403f-ac9d-0d0ecc36c12d)
+
 🔭 I’m currently working on 
 🌱 I’m currently learning
 👯 I’m looking to collaborate on
