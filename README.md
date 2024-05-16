@@ -8,20 +8,12 @@
 
 👯 Interested in collaborating or just want to connect? Feel free to reach out! Let's build something amazing together. 🌐
 
+### Languages and Tools
+![MATLAB Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/240px-Matlab_Logo.png)
+![Python Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png)
+![SQL Icon](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
+
+
 🔭 I’m currently working on 
 🌱 I’m currently learning
 👯 I’m looking to collaborate on
-<!--
-**muthuganeshece/muthuganeshece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
