@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Muthukumar, a passionate data enthusiast and aspiring machine learning engineer. 
 
-🔭 Currently, I'm immersed in the fascinating world of predictive modeling, focusing on building a robust machine learning model for predicting smoke concentration in nuclear reactors. 🌟
+🔭 Currently, I'm immersed in the fascinating world of **predictive modeling**, focusing on building a robust machine learning model for predicting smoke concentration in nuclear reactors. 🌟
 
-📚 Currently, I'm on a learning journey, pursuing certification in data science and machine learning. I'm passionate about continuous growth and staying updated with the latest advancements in the field. 📈
+📚 Currently, I'm on a learning journey, pursuing certification in **data science and machine learning** from **Scaler Academy**. I'm passionate about continuous growth and staying updated with the latest advancements in the field. 📈
 
 🚀 I'm eager to participate in machine learning hackathons to tackle real-world problems and sharpen my problem-solving skills! 💡
 
@@ -18,3 +18,7 @@
 ![tab](https://github.com/muthuganeshece/muthuganeshece/assets/131841259/d2434221-dec0-4dbb-aa7e-7757ca5cd200)
 ![bdb6abe62ffe8ac78bff9ae3fb552b5e](https://github.com/muthuganeshece/muthuganeshece/assets/131841259/a3664423-f516-437d-8b35-40582c7224f7)
 
+### Python Packages
+Data Analysis: **Numpy, Pandas** | **Matplotlib, Seaborn** | **Scipy, Mlxtend**
+ML: **Sklearn** | **TensorFlow** | **Keras**
+Others: **OpenCV** | **Ouster**
