@@ -14,6 +14,8 @@
 ![SQL Icon](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
 
 
+![Matlab_Logo](https://github.com/muthuganeshece/muthuganeshece/assets/131841259/f0351709-c25d-4440-ad8f-d6ae8d6b7511)
+
 🔭 I’m currently working on 
 🌱 I’m currently learning
 👯 I’m looking to collaborate on
