@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Muthukumar, a passionate data enthusiast and aspiring machine learning engineer. 
 
+![](https://komarev.com/ghpvc/?username=muthuganeshece&color=blue)
+
 🔭 Currently, I'm immersed in the fascinating world of **predictive modeling**, focusing on building a robust machine learning model for predicting smoke concentration in nuclear reactors. 🌟
 
 📚 Currently, I'm on a learning journey, pursuing certification in **data science and machine learning** from **Scaler Academy**. I'm passionate about continuous growth and staying updated with the latest advancements in the field. 📈
@@ -20,5 +22,8 @@
 
 ### Python Packages
 Data Analysis: **Numpy, Pandas** | **Matplotlib, Seaborn** | **Scipy, Mlxtend**
+
 ML: **Sklearn** | **TensorFlow** | **Keras**
+
 Others: **OpenCV** | **Ouster**
+
