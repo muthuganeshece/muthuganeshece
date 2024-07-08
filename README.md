@@ -2,6 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=muthuganeshece&color=blue)
 
+
 🔭 Currently, I'm immersed in the fascinating world of **predictive modeling**, focusing on building a robust machine learning model for predicting smoke concentration in nuclear reactors. 🌟
 
 📚 Currently, I'm on a learning journey, pursuing certification in **data science and machine learning** from **Scaler Academy**. I'm passionate about continuous growth. 📈
@@ -11,15 +12,27 @@
 👯 Interested in collaborating or just want to connect? Feel free to reach out! Let's build something amazing together. 🌐
 
 ### Languages and Tools
-![Matlab_Logo](https://github.com/muthuganeshece/muthuganeshece/assets/131841259/37ad5120-824d-4930-80a4-a9d756430f66)
-![4518857_python_icon (1)](https://github.com/muthuganeshece/muthuganeshece/assets/131841259/a6a2eef2-297f-403f-ac9d-0d0ecc36c12d)
-![images](https://github.com/muthuganeshece/muthuganeshece/assets/131841259/c6c3fb2e-c98a-4a15-840b-6232eb9c57fb)
-![tab](https://github.com/muthuganeshece/muthuganeshece/assets/131841259/d2434221-dec0-4dbb-aa7e-7757ca5cd200)
-![bdb6abe62ffe8ac78bff9ae3fb552b5e](https://github.com/muthuganeshece/muthuganeshece/assets/131841259/a3664423-f516-437d-8b35-40582c7224f7)
-![926px-C_Programming_Language svg](https://github.com/muthuganeshece/muthuganeshece/assets/131841259/81666cc4-5d32-4b35-b4f0-a2a9d32f46e5)
-![vba](https://github.com/muthuganeshece/muthuganeshece/assets/131841259/0004166c-8cbb-4d41-876f-1c191d3e52f2)
+![Static Badge](https://img.shields.io/badge/Matlab-%20?style=for-the-badge&labelColor=dark&color=grey)
+![Static Badge](https://img.shields.io/badge/Simulink-%20?style=for-the-badge&labelColor=dark&color=grey)
+![Static Badge](https://img.shields.io/badge/Python-%20?style=for-the-badge&labelColor=dark&color=grey)
+![Static Badge](https://img.shields.io/badge/Jupyter-%20?style=for-the-badge&labelColor=dark&color=grey)
+![Static Badge](https://img.shields.io/badge/MySQL-%20?style=for-the-badge&labelColor=dark&color=grey)
+![Static Badge](https://img.shields.io/badge/Tableau-%20?style=for-the-badge&labelColor=dark&color=grey)
+![Static Badge](https://img.shields.io/badge/Excel-%20?style=for-the-badge&labelColor=dark&color=grey)
+![Static Badge](https://img.shields.io/badge/C-%20?style=for-the-badge&labelColor=dark&color=grey)
+![Static Badge](https://img.shields.io/badge/VBA-%20?style=for-the-badge&labelColor=dark&color=grey)
 
 ### Python Packages
+![Static Badge](https://img.shields.io/badge/Numpy-%20?style=for-the-badge&labelColor=dark&color=black) ![Static Badge](https://img.shields.io/badge/Pandas-%20?style=for-the-badge&labelColor=dark&color=blue) 
+![Static Badge](https://img.shields.io/badge/OpenCV-%20?style=for-the-badge&labelColor=dark&color=purple) ![Static Badge](https://img.shields.io/badge/NLTK-%20?style=for-the-badge&labelColor=dark&color=red) 
+![Static Badge](https://img.shields.io/badge/Scipy-%20?style=for-the-badge&labelColor=dark&color=darkgreen) ![Static Badge](https://img.shields.io/badge/Mlxtend-%20?style=for-the-badge&labelColor=dark&color=darkred) 
+![Static Badge](https://img.shields.io/badge/Matplotlib-%20?style=for-the-badge&labelColor=dark&color=darkblue) ![Static Badge](https://img.shields.io/badge/Seaborn-%20?style=for-the-badge&labelColor=dark&color=brown) 
+
+![Static Badge](https://img.shields.io/badge/SKLearn-%20?style=for-the-badge&labelColor=dark&color=grey) ![Static Badge](https://img.shields.io/badge/Tensorflow-%20?style=for-the-badge&labelColor=dark&color=yellow) 
+![Static Badge](https://img.shields.io/badge/Keras-%20?style=for-the-badge&labelColor=dark&color=green) 
+![Static Badge](https://img.shields.io/badge/Ouster-%20?style=for-the-badge&labelColor=dark&color=black) 
+
+
 Data Analysis: **Numpy, Pandas** | **Matplotlib, Seaborn** | **Scipy, Mlxtend**
 
 ML: **Sklearn** | **TensorFlow** | **Keras**
