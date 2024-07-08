@@ -23,20 +23,16 @@
 ![Static Badge](https://img.shields.io/badge/VBA-%20?style=for-the-badge&labelColor=dark&color=grey)
 
 ### Python Packages
-![Static Badge](https://img.shields.io/badge/Numpy-%20?style=for-the-badge&labelColor=dark&color=black) ![Static Badge](https://img.shields.io/badge/Pandas-%20?style=for-the-badge&labelColor=dark&color=blue) 
+![Static Badge](https://img.shields.io/badge/Numpy-%20?style=for-the-badge&labelColor=dark&color=teal) ![Static Badge](https://img.shields.io/badge/Pandas-%20?style=for-the-badge&labelColor=dark&color=blue) 
 ![Static Badge](https://img.shields.io/badge/OpenCV-%20?style=for-the-badge&labelColor=dark&color=purple) ![Static Badge](https://img.shields.io/badge/NLTK-%20?style=for-the-badge&labelColor=dark&color=red) 
 ![Static Badge](https://img.shields.io/badge/Scipy-%20?style=for-the-badge&labelColor=dark&color=darkgreen) ![Static Badge](https://img.shields.io/badge/Mlxtend-%20?style=for-the-badge&labelColor=dark&color=darkred) 
 ![Static Badge](https://img.shields.io/badge/Matplotlib-%20?style=for-the-badge&labelColor=dark&color=darkblue) ![Static Badge](https://img.shields.io/badge/Seaborn-%20?style=for-the-badge&labelColor=dark&color=brown) 
 
 ![Static Badge](https://img.shields.io/badge/SKLearn-%20?style=for-the-badge&labelColor=dark&color=grey) ![Static Badge](https://img.shields.io/badge/Tensorflow-%20?style=for-the-badge&labelColor=dark&color=yellow) 
 ![Static Badge](https://img.shields.io/badge/Keras-%20?style=for-the-badge&labelColor=dark&color=green) 
-![Static Badge](https://img.shields.io/badge/Ouster-%20?style=for-the-badge&labelColor=dark&color=black) 
+![Static Badge](https://img.shields.io/badge/Ouster-%20?style=for-the-badge&labelColor=dark&color=teal) 
 
-
-Data Analysis: **Numpy, Pandas** | **Matplotlib, Seaborn** | **Scipy, Mlxtend**
-
-ML: **Sklearn** | **TensorFlow** | **Keras**
-
-Others: **OpenCV** | **Ouster**
+### Contact
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muthuganeshece@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muthukumar-ganesan-b6b85461/) 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muthuganeshece&" alt="muthuganeshece" /></p>
