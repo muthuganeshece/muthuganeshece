@@ -3,7 +3,10 @@
 ![](https://komarev.com/ghpvc/?username=muthuganeshece&color=blue)
 
 
-🔭 Currently, I'm immersed in the fascinating world of **predictive modeling**, focusing on building a robust machine learning model for predicting smoke concentration in nuclear reactors. 🌟
+
+🔭 Currently, I'm immersed in real-time computer vision, developing a robust automation system for a sodium disposal plant, denoising and debluring of X-ray images for fuel coolant interaction facility🌟
+
+Expertise in **predictive modeling** for the applications such as **predictive maintenance** and **sodium aerosol concentration estimation** for nuclear reactors, leveraging advanced machine learning techniques for accurate predictions
 
 📚 Currently, I'm on a learning journey, pursuing certification in **data science and machine learning** from **Scaler Academy**. I'm passionate about continuous growth. 📈
 
