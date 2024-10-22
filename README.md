@@ -4,7 +4,7 @@
 
 
 
-🔭 Currently, I'm immersed in real-time computer vision, developing a robust automation system for a sodium disposal plant, denoising and debluring of X-ray images for fuel coolant interaction facility🌟
+🔭 Currently, I'm immersed in **real-time computer vision**, developing a robust vision based **automation system** for a sodium disposal plant, **denoising & debluring of X-ray images** for fuel coolant interaction facility🌟
 
 Expertise in **predictive modeling** for the applications such as **predictive maintenance** and **sodium aerosol concentration estimation** for nuclear reactors, leveraging advanced machine learning techniques for accurate predictions
 
@@ -24,6 +24,7 @@ Expertise in **predictive modeling** for the applications such as **predictive m
 ![Static Badge](https://img.shields.io/badge/Excel-%20?style=for-the-badge&labelColor=dark&color=grey)
 ![Static Badge](https://img.shields.io/badge/C-%20?style=for-the-badge&labelColor=dark&color=grey)
 ![Static Badge](https://img.shields.io/badge/VBA-%20?style=for-the-badge&labelColor=dark&color=grey)
+![Static Badge](https://img.shields.io/badge/ImageJ-%20?style=for-the-badge&labelColor=dark&color=grey)
 
 ### Python Packages
 ![Static Badge](https://img.shields.io/badge/Numpy-%20?style=for-the-badge&labelColor=dark&color=teal) ![Static Badge](https://img.shields.io/badge/Pandas-%20?style=for-the-badge&labelColor=dark&color=blue) 
