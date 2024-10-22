@@ -6,7 +6,7 @@
 
 🔭 Currently, I'm immersed in **real-time computer vision**, developing a robust vision based **automation system** for a sodium disposal plant, **denoising & debluring of X-ray images** for fuel coolant interaction facility🌟
 
-Expertise in **predictive modeling** for the applications such as **predictive maintenance** and **sodium aerosol concentration estimation** for nuclear reactors, leveraging advanced machine learning techniques for accurate predictions
+💡 Expertise in **predictive modeling** for the applications such as **predictive maintenance** and **sodium aerosol concentration estimation** for nuclear reactors, leveraging advanced machine learning techniques for accurate predictions🚀
 
 📚 Currently, I'm on a learning journey, pursuing certification in **data science and machine learning** from **Scaler Academy**. I'm passionate about continuous growth. 📈
 
