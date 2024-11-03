@@ -8,7 +8,7 @@
 
 💡 Expertise in **predictive modeling** for the applications such as **predictive maintenance** and **sodium aerosol concentration estimation** for nuclear reactors, leveraging advanced machine learning techniques for accurate predictions🚀
 
-📚 Presently, I'm on a learning journey, pursuing a certification in **data science and machine learning**. I'm passionate about continuous growth. 📈
+📚 I’m presently on a learning journey, pursuing a certification in **Data Science and Machine Learning**, driven by a passion for continuous growth and improvement📈
 
 🚀 I'm eager to **participate in machine learning hackathons** to tackle real-world problems! 💡
 
