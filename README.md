@@ -1,4 +1,4 @@
-### Hi 👋🏾 I'm Muthukumar, a passionate data enthusiast and aspiring machine learning engineer. 
+### Hi 👋🏾 I'm Muthukumar, a principal machine learning engineer and a passionate data enthusiast. 
 
 ![](https://komarev.com/ghpvc/?username=muthuganeshece&color=blue)
 
